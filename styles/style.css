@@ -63,17 +63,15 @@ hr{
 
 
 @media (max-width: 680px) {
-    .logo {
+      .logo {
       width: 250px;
-      margin-left:30px;
+      margin-left:0px;
       display:inline-block;
-      margin-top:20px;
+      margin-top:10px;
     }
     .aboutpage{
-        position:relative;
-        float:right;
-        margin-top:25px;
-        
+        margin-top:0;
+        margin-right:70px
        
         
     }
