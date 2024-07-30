@@ -18,6 +18,7 @@ h1 {
 
 .negrito {
     color:orangered;
+    text-decoration:underline;
     
 }
 
@@ -50,7 +51,7 @@ hr{
  
     
 .imagens{
-    width:45%;
+    width:20%;
     border:2px solid orangered;
     display:inline-block;;
     float:left;
@@ -67,12 +68,15 @@ hr{
       width: 170px;
       margin-left:-25px;
       margin-top:0px;
+      
 
     }
     .aboutpage{
         margin-top:0;
         margin-right:5px;
-     
+        
+       
+        
     }
     .imagens{
         width:95%;
@@ -90,8 +94,9 @@ hr{
     }
     footer{
         
-        margin-top:700px;
+        margin-top:600px;
         margin-right:25%;
+        
         
         
     }
