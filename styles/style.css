@@ -1,0 +1,120 @@
+body {
+    font-family: "Poppins", sans-serif;
+    margin: 50px 50px 0 50px;
+    background-color: white;
+    
+    
+}
+
+h1 {
+    font-size: 5rem;
+  }
+
+.logo {
+    width:300px;
+    display:inline-block;
+    
+}
+
+.negrito {
+    color:orangered;
+    
+}
+
+html{
+    font-size:10px;
+
+    
+} 
+footer{
+    text-align:right;
+    color:rgb(252, 59, 0);
+    font-size:25px;
+    margin-top:550px;
+    font-family: "Poppins", sans-serif;
+    
+}
+
+.aboutpage {
+    display:inline-block;
+    float:right;
+    color:orangered;
+}
+
+hr{
+    margin-top:15px;
+    border: 1px solid orangered;
+}
+
+
+ 
+    
+.imagens{
+    width:45%;
+    border:2px solid orangered;
+    display:inline-block;;
+    float:left;
+    
+    
+    
+}
+
+
+
+
+@media (max-width: 680px) {
+    .logo {
+      width: 250px;
+      margin-left:30px;
+      display:inline-block;
+      margin-top:20px;
+    }
+    .aboutpage{
+        position:relative;
+        float:right;
+        margin-top:25px;
+        
+       
+        
+    }
+    .imagens{
+        width:95%;
+        margin-top:15px;
+
+    }
+    
+    h1 {
+      font-size: 3.5rem;
+      text-align: center;
+    }
+    
+    .esquerda {
+        text-align:center;
+    }
+    footer{
+        
+        margin-top:700px;
+        margin-right:25%;
+        
+        
+    }
+  }
+
+.esquerda {
+    text-align:left;
+    margin-top:5px;
+    margin-left:10px;
+    float:left;
+    font-weight:bolder;
+    font-size:18px;
+    font-family: "Poppins", sans-serif;
+}
+@media (min-width:681px) {
+    .imagens{
+        width:20%;
+    }
+    .esquerda{
+        font-size:25px;
+        margin-left:10px;
+    }
+}

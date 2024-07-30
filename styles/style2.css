@@ -1,0 +1,23 @@
+body {
+    font-family: "Poppins", sans-serif;
+    margin: 50px 50px 0 50px;
+    background-color: whitesmoke;
+    
+    
+}
+.titulo{
+    margin-left:40%;
+    font-family: "Poppins", sans-serif;
+    font-weight:bolder;
+    color:orangered;
+    -webkit-text-stroke: 1px black;
+
+}
+hr {
+    border: 1px solid orangered
+    
+    
+}
+.imagem1 {
+    width:30%;
+}
