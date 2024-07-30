@@ -20,4 +20,28 @@ hr {
 }
 .imagem1 {
     width:30%;
+    
+}
+.instagram {
+    color:orangered;
+    -webkit-text-stroke:1px black;
+    font-size:35px;
+    margin-left:10px;
+}
+@media (max-width:600px) {
+    .imagem1{
+        width:100%;
+    }
+    .titulo{
+        float:right;
+        margin-right:80px;
+        text-align:left;
+    }
+    hr{
+        position:relative;
+        
+    }
+    .instagram{
+        margin-left:75px;
+    }
 }
