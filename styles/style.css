@@ -63,20 +63,16 @@ hr{
 
 
 @media (max-width: 680px) {
-      .logo {
-      width: 200px;
+    .logo {
+      width: 170px;
       margin-left:-25px;
       margin-top:0px;
 
     }
     .aboutpage{
         margin-top:0;
-        margin-right:35px;
-        
-       
-       
-        
-        
+        margin-right:5px;
+     
     }
     .imagens{
         width:95%;
@@ -109,14 +105,4 @@ hr{
     font-weight:bolder;
     font-size:18px;
     font-family: "Poppins", sans-serif;
-}
-@media (min-width:681px) and (max-width:1000) {
-    .imagens{
-        width:30%;
-    }
-    .esquerda{
-        font-size:25px;
-        margin-left:10px;
-    }
-   
 }
